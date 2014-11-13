@@ -1,0 +1,9 @@
+compile
+test
+run
+compile
+test
+run
+styleCheck
+submit renq654321@gmail.com def factB(c: Int, r: Int): Int =if (c==0) 1 else factB(c-1,r)*(r-c+1)/c  
+submit renq654321@gmail.com 7xZQDk46p9
